@@ -381,6 +381,7 @@ export function Calculator() {
                 </div>
 
                 <div className="section-title">THỜI ĐIỂM NGHỈ HƯU THEO NGUYỆN VỌNG (TÙY CHỌN)</div>
+                <div className="text-[#e60000] text-[12.5px] italic font-medium mb-[12px] mt-[-5px] text-center">* (Bỏ trống nếu muốn nghỉ đúng tuổi hưu, không muốn nghỉ sớm)</div>
                 <div className="flex gap-[10px] flex-wrap mb-[15px]">
                     <div className="flex-1 min-w-[45%]">
                         <label className="form-label">Tháng nghỉ hưu</label>
